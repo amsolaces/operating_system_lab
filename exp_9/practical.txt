@@ -1,0 +1,11 @@
+Aim: To implement basic shell commands and shell scripts.
+Steps to Write and Execute a Shell Script:
+1.	Create a script file:
+ Example: vi hello.sh
+2.	Press i to enter Insert mode
+3.	Start with the shebang line #!/bin/bash
+4.	Enter the contents
+5.	Press esc
+6.	Write :wq to save and quit then press enter
+7.	Give Execute Permission to the Script: chmod +x hello.sh
+8.	Execute (Run) the script: ./hello.sh
